@@ -1,0 +1,83 @@
+body{
+    background-image: url(backgroungimg.jpg);
+
+}
+
+head{
+    color: white;
+    font-size: large;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+header{
+    height: 118px;
+    text-align: center;
+ }
+
+ .right-images {
+      position: static;
+      right: 20px;
+      top: 60px;
+      width: 50px;
+    }
+
+    .right-images img {
+      display: block;
+      width: 60px;
+      margin-bottom: 15px;
+      border: 2px solid #cccccc;
+      border-radius: 5px;
+
+    }
+   
+
+ h1{
+    text-align: center;
+    color: aliceblue;
+
+ }
+ 
+div{
+    color:white
+}
+ 
+.item-name {
+      font-weight: bold;
+    }
+
+    .price {
+      color:white;
+
+    }
+
+    .menu-section {
+      max-width: 600px;
+      margin: 0 auto;
+    }
+
+    .menu-item {
+      display: flex;
+      justify-content: space-between;
+      border-bottom: 1px solid #ddd;
+      padding: 10px 0;
+    }
+thead{
+    text-align: center;
+    color: white;
+}
+
+tbody{
+    text-align: center;
+    color: white;
+}
+
+ a{
+      color: whitesmoke;
+   }
+h2{
+  color: whitesmoke;
+}
+
+nav{
+  text-align: center;
+  font-size: x-large;
+}
