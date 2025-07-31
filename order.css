@@ -1,0 +1,65 @@
+body{
+    background-image: url(backgroungimg.jpg);
+
+
+}
+header{
+    height: 118px;
+    text-align: center;
+
+ }
+
+ h2{
+    text-align: center;
+    color: aliceblue;
+
+ }
+
+ footer{
+    background-color: brown;
+    text-align: center;
+    color: white;
+ }
+
+  body {
+      font-family: Arial, sans-serif;
+      background-color: wheat;
+      padding: 30px;
+    }
+    h1 {
+      text-align: center;
+      color: white;
+    }
+    table {
+      margin: auto;
+      border-collapse: collapse;
+      width: 500px;
+      background-color:rgb(216, 152, 33);
+      border-radius: 8px;
+      box-shadow: 0 0 10px rgb(199, 76, 76);
+    }
+    td {
+      padding: 12px;
+    }
+    label {
+      font-weight: bold;
+    }
+    input, select, textarea {
+      width: 100px;
+      padding: 6px;
+    }
+    .submit-btn {
+      background-color: brown;
+      color: white;
+      border: none;
+      padding: 10px 20px;
+      border-radius: 5px;
+      cursor: pointer;
+    }
+    .submit-btn:hover {
+      background-color: brown;
+    }
+
+   a{
+      color: whitesmoke;
+   }
