@@ -69,3 +69,49 @@ p{
     height: 10px;
   }
  
+.form-container {
+  display: flex;
+  justify-content: flex-end;
+}
+
+form {
+  width: 400px; 
+  background-color: brown;
+  padding: 20px;
+  border-radius: 10px;
+  float: right;
+  margin-left: auto; 
+  width: 300px; 
+  margin-left: 100px;
+  position: absolute;
+  right: 0; 
+}
+
+    table {
+      width: 100;
+    }
+
+    td {
+      padding: 5px;
+    }
+
+    input, textarea {
+      width: 100%;
+      padding: 8px;
+      border: 1px solid #ccc;
+      border-radius: 5px;
+    }
+
+    button {
+      padding: 10px 20px;
+      background-color: #007bff;
+      color: white;
+      border: navy;
+      border-radius: 5px;
+      cursor: pointer;
+    }
+
+    button:hover {
+      background-color: blue;
+    }
+   
