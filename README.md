@@ -1,0 +1,2 @@
+#  Kealphine'sEatery
+Josephine Kwao and my Eatery website aims to bring the unique flavors and cozy atmosphere of the daily grind to a wider audience. Targeting food lovers, this website features an easy to navigate online menu. This website was designed using .HTML and .CSS to be mobile friendly and visually appealing, reflecting our brand's commitment to quality and community. Visitors can quickly place online orders, and contact us. Ultimately, we expext this website to increase our online presence, drive more foot traffice, and enhance customer engagement.
