@@ -1,5 +1,5 @@
 body{
-    background-image: url(Grilledchicken.jpg);
+    background-image: url(Eaterybackground.png);
 
 
 }
@@ -16,9 +16,9 @@ header{
  }
 
  footer{
-    background-color: brown;
     text-align: center;
-    color: white;
+    color: whitesmoke;
+    font-size: large;
  }
 
   body {
