@@ -4,7 +4,7 @@ body{
 }
 
 head{
-    color: white;
+    color: bisque;
     font-size: large;
     font-family: Georgia, 'Times New Roman', Times, serif;
 }
@@ -24,7 +24,6 @@ header{
       display: block;
       width: 60px;
       margin-bottom: 15px;
-      border: 2px solid #cccccc;
       border-radius: 5px;
 
     }
@@ -32,12 +31,12 @@ header{
 
  h1{
     text-align: center;
-    color: aliceblue;
+    color: bisque;
 
  }
  
 div{
-    color:white
+    color: bisque;
 }
  
 .item-name {
@@ -45,7 +44,7 @@ div{
     }
 
     .price {
-      color:white;
+      color: bisque;
 
     }
 
@@ -57,27 +56,54 @@ div{
     .menu-item {
       display: flex;
       justify-content: space-between;
-      border-bottom: 1px solid #ddd;
       padding: 10px 0;
     }
 thead{
     text-align: center;
-    color: white;
+    color: bisque;
 }
 
 tbody{
     text-align: center;
-    color: white;
+    color: bisque;
 }
 
  a{
-      color: whitesmoke;
+      color: bisque;
    }
 h2{
-  color: whitesmoke;
+  color: rgb(182, 63, 63);
 }
 
 nav{
   text-align: center;
   font-size: x-large;
 }
+
+.reviews-section {
+      max-width: 800px;
+      margin: auto;
+      padding: 20px;
+      float: right;
+      position: right;
+    }
+    .review {
+      background-color: rgb(108, 41, 41);
+      border: 1px solid #ddd;
+      border-radius: 10px;
+      padding: 15px;
+      margin-bottom: 20px;
+    }
+    .review h3 {
+      margin: 0;
+      font-size: 1.1em;
+      color: rgb(229, 215, 215); 
+    }
+    .stars {
+      color: goldenrod; 
+      font-size: 1.2em;
+    }
+    .review p {
+      margin-top: 10px;
+      font-size: 0.95em;
+    }
